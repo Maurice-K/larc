@@ -1,0 +1,82 @@
+.display-none {
+	display: none;
+}
+.column {
+	display: inline-block;
+}
+.message,
+.error {
+	color: red;
+}
+.success {
+	color: green;
+}
+.border {
+	border: 1px solid #000;
+}
+.radius {
+	border-radius: 3px;
+}
+.inline-block {
+	display: inline-block;
+}
+.table {
+	display: table;
+}
+.table-cell {
+	display: table-cell;
+}
+.ten {
+	width:10%;
+}
+.five {
+	width: 5%;
+}
+.eighty {
+	width: 80%;
+}
+.labelHeader {
+	border-bottom: 1px solid #000;
+}
+.diviv {
+	padding-bottom: 1rem;
+	padding-left: 1rem;
+	margin-bottom: 1rem;
+}
+.pink {
+	background-color: #ff69b4;
+}
+.already-exists {
+	background-color: #999;
+}
+.selectingOldOrNew {
+	padding: .5rem .25rem;
+	line-height: 25px;
+	border: 1px solid #000;
+}
+.selectingOldOrNew input[type="text"] {
+	min-width: 250px;
+}
+.tabs {
+
+}
+.tabs ul {
+	border-bottom: 1px solid #999;
+	margin: 0;
+	padding: 0;
+}
+.tabs ul li {
+	display: inline-block;
+}
+.tabs ul li a {
+	
+}
+quote {
+	text-indent: 2rem;
+	font-style: italic;
+	font-size: 12px;
+}
+.results-container {
+	max-width: 100%;
+	padding: 2rem 0;
+}
