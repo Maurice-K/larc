@@ -1,0 +1,14 @@
+[21-Jul-2016 08:32:17] PHP Fatal error:  Class 'WP_Widget' not found in /home4/louisid3/public_html/wp-includes/widgets/class-wp-widget-links.php on line 17
+[23-Jul-2016 02:10:32] PHP Fatal error:  Class 'WP_Widget' not found in /home4/louisid3/public_html/wp-includes/widgets/class-wp-widget-archives.php on line 17
+[24-Jul-2016 10:55:17] PHP Fatal error:  Class 'WP_Widget' not found in /home4/louisid3/public_html/wp-includes/widgets/class-wp-widget-search.php on line 17
+[26-Jul-2016 23:42:07] PHP Fatal error:  Class 'WP_Widget' not found in /home4/louisid3/public_html/wp-includes/widgets/class-wp-widget-links.php on line 17
+[27-Jul-2016 05:55:15] PHP Fatal error:  Class 'WP_Widget' not found in /home4/louisid3/public_html/wp-includes/widgets/class-wp-widget-calendar.php on line 17
+[27-Jul-2016 09:33:18] PHP Fatal error:  Class 'WP_Widget' not found in /home4/louisid3/public_html/wp-includes/widgets/class-wp-widget-meta.php on line 19
+[28-Jul-2016 13:03:03] PHP Fatal error:  Class 'WP_Widget' not found in /home4/louisid3/public_html/wp-includes/widgets/class-wp-widget-archives.php on line 17
+[29-Jul-2016 13:18:30] PHP Fatal error:  Class 'WP_Widget' not found in /home4/louisid3/public_html/wp-includes/widgets/class-wp-widget-text.php on line 17
+[31-Jul-2016 07:49:05] PHP Fatal error:  Class 'WP_Widget' not found in /home4/louisid3/public_html/wp-includes/widgets/class-wp-widget-links.php on line 17
+[02-Aug-2016 21:36:37] PHP Fatal error:  Class 'WP_Widget' not found in /home4/louisid3/public_html/wp-includes/widgets/class-wp-widget-pages.php on line 17
+[18-Feb-2017 14:43:53] PHP Fatal error:  Class 'WP_Widget' not found in /home4/louisid3/public_html/wp-includes/widgets/class-wp-widget-tag-cloud.php on line 17
+[19-Feb-2017 15:32:38] PHP Fatal error:  Class 'WP_Widget' not found in /home4/louisid3/public_html/wp-includes/widgets/class-wp-widget-recent-posts.php on line 17
+[21-Feb-2017 19:25:33] PHP Fatal error:  Class 'WP_Widget' not found in /home4/louisid3/public_html/wp-includes/widgets/class-wp-nav-menu-widget.php on line 17
+[21-Feb-2017 23:24:14] PHP Fatal error:  Class 'WP_Widget' not found in /home4/louisid3/public_html/wp-includes/widgets/class-wp-widget-recent-comments.php on line 17

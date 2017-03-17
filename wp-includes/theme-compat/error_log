@@ -1,0 +1,7 @@
+[20-Jun-2016 18:57:50] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home4/louisid3/public_html/wp-includes/theme-compat/sidebar.php on line 10
+[21-Jun-2016 20:18:58] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home4/louisid3/public_html/wp-includes/theme-compat/footer.php on line 10
+[07-Jul-2016 06:53:49] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home4/louisid3/public_html/wp-includes/theme-compat/header.php on line 10
+[09-Jul-2016 08:46:37] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home4/louisid3/public_html/wp-includes/theme-compat/sidebar.php on line 10
+[23-Jul-2016 21:14:48] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home4/louisid3/public_html/wp-includes/theme-compat/comments.php on line 10
+[26-Jul-2016 14:19:46] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home4/louisid3/public_html/wp-includes/theme-compat/header.php on line 10
+[02-Aug-2016 07:26:44] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home4/louisid3/public_html/wp-includes/theme-compat/header.php on line 10
