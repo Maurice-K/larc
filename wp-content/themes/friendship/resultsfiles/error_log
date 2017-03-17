@@ -1,0 +1,4 @@
+
+[16-Mar-2017 19:08:01] PHP Warning:  json_encode() [<a href='function.json-encode'>function.json-encode</a>]: Invalid UTF-8 sequence in argument in /home4/louisid3/public_html/wp-content/themes/friendship/resultsfiles/dbc.php on line 322
+[16-Mar-2017 19:19:27] PHP Warning:  json_encode() [<a href='function.json-encode'>function.json-encode</a>]: Invalid UTF-8 sequence in argument in /home4/louisid3/public_html/wp-content/themes/friendship/resultsfiles/dbc.php on line 323
+[16-Mar-2017 19:31:52] PHP Warning:  json_encode() [<a href='function.json-encode'>function.json-encode</a>]: Invalid UTF-8 sequence in argument in /home4/louisid3/public_html/wp-content/themes/friendship/resultsfiles/dbc.php on line 323

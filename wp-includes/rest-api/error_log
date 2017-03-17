@@ -1,0 +1,2 @@
+[05-Jul-2016 01:46:55] PHP Fatal error:  Class 'WP_HTTP_Response' not found in /home4/louisid3/public_html/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[18-Jul-2016 11:50:27] PHP Fatal error:  Class 'WP_HTTP_Response' not found in /home4/louisid3/public_html/wp-includes/rest-api/class-wp-rest-response.php on line 17
